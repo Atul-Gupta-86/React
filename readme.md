@@ -1,2 +1,2 @@
-# Reach Learning Course
-Start React project
+# React Learning Course
+React project
